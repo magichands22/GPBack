@@ -55,9 +55,7 @@ El sitio web es un e-commerce que consiste en la venta de productos de hardware 
 
 # 💻 Capturas en Escritorio 💻
 
-<p align="center">
-  <img  src="" />
-</p>
+[![gp1.png](https://i.postimg.cc/BbNqMLCZ/gp1.png)](https://postimg.cc/T5LMPPSB)
 <p align="center">
   <img  src="" />
 </p>
