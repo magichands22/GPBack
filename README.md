@@ -56,18 +56,10 @@ El sitio web es un e-commerce que consiste en la venta de productos de hardware 
 # 💻 Capturas en Escritorio 💻
 
 [![gp1.png](https://i.postimg.cc/BbNqMLCZ/gp1.png)](https://postimg.cc/T5LMPPSB)
-<p align="center">
-  <img  src="" />
-</p>
-<p align="center">
-  <img  src="" />
-</p>
-<p align="center">
-  <img  src="" />
-</p>
-<p align="center">
-  <img  src="" />
-</p>
+[![gp2.png](https://i.postimg.cc/X7J3nv8F/gp2.png)](https://postimg.cc/pyg3ZR3X)
+[![gp3.png](https://i.postimg.cc/02BvjqW4/gp3.png)](https://postimg.cc/4mVq2jTv)
+[![gp4.png](https://i.postimg.cc/QthGwNCF/gp4.png)](https://postimg.cc/f32r0Nxs)
+[![gp5.png](https://i.postimg.cc/qqDPN8LK/gp5.png)](https://postimg.cc/RJfs8J2C)
 
 ### <a href="">Link a la aplicación</a>
 
@@ -75,7 +67,7 @@ El sitio web es un e-commerce que consiste en la venta de productos de hardware 
 
 Para probar o ver el sitio web ingresa al siguiente enlace:
 
--   Para visitar el sitio web [click aquí]().
+-   Para visitar el sitio web [click aquí](https://gp-front.vercel.app/).
 
 
 ### Simulación como administrador:
