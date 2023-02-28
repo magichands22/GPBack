@@ -61,21 +61,20 @@ El sitio web es un e-commerce que consiste en la venta de productos de hardware 
 [![gp4.png](https://i.postimg.cc/QthGwNCF/gp4.png)](https://postimg.cc/f32r0Nxs)
 [![gp5.png](https://i.postimg.cc/qqDPN8LK/gp5.png)](https://postimg.cc/RJfs8J2C)
 
-### <a href="">Link a la aplicación</a>
 
 ## Demo
 
 Para probar o ver el sitio web ingresa al siguiente enlace:
 
--   Para visitar el sitio web [click aquí](https://gp-front.vercel.app/).
+-   Para visitar el sitio web <a href="https://gp-front.vercel.app/" target="_blank">click aca</a>.
 
 
 ### Simulación como administrador:
 
 Para probar ser un administrador en la página ingresa las siguientes credenciales en la ventana de Login:
 
--   Usuario: admin@email.com
--   Contraseña: Administrador123
+-   Usuario: admin@gmail.com
+-   Contraseña: Admin321
 
 ### Simular pasarela de pago:
 
