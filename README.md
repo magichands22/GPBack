@@ -1,8 +1,6 @@
 # GamingPalace - Proyecto Final
 
-<p align="center">
-  <img height="150" src="" />
-</p>
+[![gp.png](https://i.postimg.cc/65m7XgdW/gp.png)](https://postimg.cc/7fSP1Bsd)
 
 ## Resumen
 
