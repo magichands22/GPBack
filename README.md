@@ -34,7 +34,7 @@ El sitio web es un e-commerce que consiste en la venta de productos de hardware 
 
 ## Tecnologías usadas
 
--   JavaScipt
+-   JavaScript
 -   HTML
 -   Bootsrap
 -   Material UI
