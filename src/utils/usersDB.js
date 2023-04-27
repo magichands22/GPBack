@@ -4,7 +4,7 @@ let users = [
       id: 1,
       name: 'Agustin',
       email: 'agus@gmail.com',
-      password: 'agus321',
+      password: 'Agus_321',
       image: 'pelota',
       role: 'admin',
       address: 'argentina'
